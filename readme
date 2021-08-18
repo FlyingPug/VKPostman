@@ -1,1 +1,7 @@
 This bot takes random posts from certain subreddits and puts them in the your VK group
+Usage:
+1. go here https://vk.com/apps?act=manage and create your bot.
+2. https://www.reddit.com/prefs/apps. Create your personal script.
+3. Go to main.py and fill the empty sockets. 
+4. Run main.py
+Done!
